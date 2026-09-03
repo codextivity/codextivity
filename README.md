@@ -27,11 +27,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=codextivity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codextivity&layout=compact&theme=tokyonight&hide_border=true)
-
 ### 🔗 [See my full portfolio →](https://codextivity.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codextivity&color=blue&style=flat)
