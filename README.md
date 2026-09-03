@@ -1,4 +1,4 @@
-# 👋 Hi, I'm PANN VANDET (Jay)
+# 👋 Hi, I'm PANN VANDET (Jay) — also known as Codextivity
 
 ### AI Engineer | Computer Vision × LLM Engineering
 
