@@ -10,6 +10,7 @@
 - 🎓 **MS Computer Science** — Jeonbuk National University (GKS Scholar)
 - 📝 **3 SCI(E) papers** published as first author
 - 🎯 Specializing in **Computer Vision + LLM Engineering + MLOps**
+- 📝 **Interesting research** Physical AI
 - 🌏 English · Korean · Khmer
 
 
