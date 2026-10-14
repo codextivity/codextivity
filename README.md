@@ -10,7 +10,7 @@
 - 🎓 **MS Computer Science** — Jeonbuk National University (GKS Scholar)
 - 📝 **3 SCI(E) papers** published as first author
 - 🎯 Specializing in **Computer Vision + LLM Engineering + MLOps**
-- 🌏 Cambodia → Korea | English · Korean · Khmer
+- 🌏 English · Korean · Khmer
 
 
 ## 🛠 Tech Stack
