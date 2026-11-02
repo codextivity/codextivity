@@ -2,8 +2,6 @@
 
 ### AI Engineer | Computer Vision × LLM Engineering
 
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-003580?style=for-the-badge&logo=github)
-
 ## 🙋 About Me
 
 - 🔭 Senior AI Developer at **ZerOneDay** — multimodal AI systems
@@ -27,7 +25,8 @@
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
 ---
-
-### 🔗 [See my full portfolio →](https://codextivity.github.io)
+![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-003580?style=for-the-badge&logo=github)
+### [See Full Portfolio](https://codextivity.github.io)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=codextivity&color=blue&style=flat)
+
